@@ -4,8 +4,6 @@
 # lib for work with trans audio to text and some OS stuff
 import os
 import speech_recognition as sr
-# from pydub import AudioSegment
-# from pydub.silence import split_on_silence
 from lib import get_large_audio_transcription
 
 # libs for TG bot's work
